@@ -28,4 +28,9 @@ const questions = [
         name:'contribution',
         message: "What are the guidelines for the contributions in your project?"
     },
+    {
+        type: 'input', 
+        name:'testing',
+        message: "How did you test your project?"
+    },
 ]
