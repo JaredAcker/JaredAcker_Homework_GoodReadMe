@@ -33,4 +33,18 @@ const questions = [
         name:'testing',
         message: "How did you test your project?"
     },
+    {
+        type: "list",
+        name: "license",
+        message: "Chose the appropriate license for this project: ",
+        choices: [
+            "Apache",
+            "Academic",
+            "GNU",
+            "ISC",
+            "MIT",
+            "Mozilla",
+            "Open"
+        ]
+    },
 ]
