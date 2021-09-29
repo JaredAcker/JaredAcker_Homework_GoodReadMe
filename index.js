@@ -47,4 +47,10 @@ const questions = [
             "Open"
         ]
     },
+    {
+        type: 'input', 
+        name:'Issues',
+        message: "What problems did you run into in this project?"
+    },
+
 ]
