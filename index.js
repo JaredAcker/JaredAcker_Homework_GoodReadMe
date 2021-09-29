@@ -52,5 +52,9 @@ const questions = [
         name:'Issues',
         message: "What problems did you run into in this project?"
     },
-
+    {
+        type: "input",
+        name: "email",
+        message: "Please enter your email: "
+    }
 ]
