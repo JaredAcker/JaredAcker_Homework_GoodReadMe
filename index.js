@@ -23,5 +23,9 @@ const questions = [
         name:'usage',
         message: "What is the usage informaton for your project?"
     },
-
+    {
+        type: 'input', 
+        name:'contribution',
+        message: "What are the guidelines for the contributions in your project?"
+    },
 ]
